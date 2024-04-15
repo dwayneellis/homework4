@@ -1,6 +1,6 @@
 # CIS 2348 Homework 4 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: #######
 # Lab 12.9 Exception handling to detect input string vs. integer
 
 
