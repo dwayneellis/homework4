@@ -1,6 +1,6 @@
 # CIS 2348 Homework 4 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: #######
 # Lab 14.11  Descending selection sort with output during execution
 
 def selection_sort_descend_trace(integers_list):
