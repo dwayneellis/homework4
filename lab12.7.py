@@ -1,6 +1,6 @@
 # CIS 2348 Homework 4 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: #######
 # Lab 12.7 Fat-burning heart rate
 # This program calculates an adult's fat-burning heart rate, which is 70% of 220 minus the person's age.
 
